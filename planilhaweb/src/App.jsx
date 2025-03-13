@@ -34,8 +34,6 @@ function App() {
             </div>
         </form>
        
-       <script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
-
         <h1 class="client-list">Lista de Clientes</h1>
       <table id="clientes-table" class="sortable">
         <thead>
